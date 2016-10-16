@@ -1,8 +1,8 @@
 # {{ page.name }}
 
-| Name            | Race            | Alignment            | Class            | Level                 | Armor         | HP            |
-|-----------------|-----------------|----------------------|------------------|-----------------------|---------------|---------------|
-| {{ page.name }} | {{ page.race }} | {{ page.alignment }} | {{ page.class }} | {{ page.char_level }} | {{ page.ac }} | {{ page.hp }} |
+| Race            | Alignment            | Class            | Level                 | Armor         | HP            |
+|-----------------|----------------------|------------------|-----------------------|---------------|---------------|
+| {{ page.race }} | {{ page.alignment }} | {{ page.class }} | {{ page.char_level }} | {{ page.ac }} | {{ page.hp }} |
 
 {{ page.background }}
 
