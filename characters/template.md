@@ -1,12 +1,12 @@
 # {{ page.name }}
 
-| Detail    | Value             |
-|-----------|-------------------|
-| Name      | {page.name}       |
-| Race      | {page.race}       |
-| Alignment | {page.alignment}  |
-| Level     | {page.char_level} |
-| Class     | {page.class}      |
+| Detail    | Value                 |
+|-----------|-----------------------|
+| Name      | {{ page.name }}       |
+| Race      | {{ page.race }}       |
+| Alignment | {{ page.alignment }}  |
+| Level     | {{ page.char_level }} |
+| Class     | {{ page.class }}      |
 
 ## Background
 
