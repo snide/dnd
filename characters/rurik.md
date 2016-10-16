@@ -6,6 +6,8 @@ alignment: Lawful Neutral
 char_level: 2
 class: Cleric
 hometown: Icewind Dale
+ac: 15
+hp: ??
 str: 15
 str_mod: +2
 dex: 10

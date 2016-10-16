@@ -4,10 +4,10 @@ The town of Red Larch is a waystop on the Long Road seven days north of [Waterde
 
 ### Places visited:
 
-* 2. The Swinging Sword Inn
-* 3. The Helm at Highsun
-* 11. Butcher Shop
-* 16. Waelvur's Wagonworks
+2. The Swinging Sword Inn
+3. The Helm at Highsun
+11. Butcher Shop
+16. Waelvur's Wagonworks
 
 
 ![Red Larch](/static/img/red_larch.jpg)

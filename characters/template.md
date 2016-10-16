@@ -1,14 +1,8 @@
 # {{ page.name }}
 
-| Detail    | Value                 |
-|-----------|-----------------------|
-| Name      | {{ page.name }}       |
-| Race      | {{ page.race }}       |
-| Alignment | {{ page.alignment }}  |
-| Level     | {{ page.char_level }} |
-| Class     | {{ page.class }}      |
-
-## Background
+| Name            | Race            | Alignment            | Class            | Level               |
+|-----------------|-----------------|----------------------|------------------|---------------------|
+| {{ page.name }} | {{ page.race }} | {{ page.alignment }} | {{ page.class }} | {{ page.char_level }}
 
 {{ page.background }}
 
