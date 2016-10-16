@@ -1,6 +1,14 @@
 # {{ page.name }}
 
-{{ page.name }} is a {{ page.alignment }} level {{ page.char_level }} **{{ page.race }} {{ page.class }}** from {{ page.hometown }}.
+| Name      | {page.name}       |
+| Race      | {page.race}       |
+| Alignment | {page.alignment}  |
+| Level     | {page.char_level} |
+| Class     | {page.class}      |
+
+## Background
+
+{{ page.background }}
 
 ## Attributes
 
