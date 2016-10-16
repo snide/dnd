@@ -1,15 +1,17 @@
 # Summary
 
-### Game
+### Characters
 
-* [Characters](characters/readme.md)
-    * [Rurik Ironfist](characters/rurik.md)
-    * [Orilo Ogolakanu](characters/orilo.md)
-    * [Sponge'eob](characters/spongeeob.md)
-    * [Lorvyl Winter](characters/lorvyl.md)
-* [Sessions](sessions/readme.md)
-    * [S01: The assault on Lance Rock, part 1](sessions/01.md)
-    * [S02: The assault on Lance Rock, part 2](sessions/02.md)
+* [Rurik Ironfist](characters/rurik.md)
+* [Orilo Ogolakanu](characters/orilo.md)
+* [Sponge'eob](characters/spongeeob.md)
+* [Lorvyl Winter](characters/lorvyl.md)
+
+### Sessions
+
+* [S01: The assault on Lance Rock, part 1](sessions/01.md)
+* [S02: The assault on Lance Rock, part 2](sessions/02.md)
+* [S03: Exploring Red Larch](sessions/03.md)
 
 ### World
 
