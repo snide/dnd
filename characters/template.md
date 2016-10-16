@@ -1,5 +1,7 @@
 # {{ page.name }}
 
+| Detail    | Value             |
+|-----------|-------------------|
 | Name      | {page.name}       |
 | Race      | {page.race}       |
 | Alignment | {page.alignment}  |
