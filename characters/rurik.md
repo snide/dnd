@@ -3,8 +3,9 @@ name: Rurik Ironfist
 player: Patrick McNally
 race: Hill Dwarf
 alignment: Lawful Neutral
-level: 2
+char_level: 2
 class: Cleric
+hometown: Icewind Dale
 str: 15
 str_mod: +2
 dex: 10

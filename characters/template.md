@@ -1,6 +1,6 @@
 # {{ page.name }}
 
-{{ page.name }} is a level {{ page.level }} **{{ page.race }} {{ page.class }}** from {{ page.hometown }}.
+{{ page.name }} is a {{ page.alignment }} level {{ page.char_level }} **{{ page.race }} {{ page.class }}** from {{ page.hometown }}.
 
 ## Attributes
 
