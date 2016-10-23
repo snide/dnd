@@ -5,6 +5,6 @@ This is a storylog for the [Guidebook](https://guidebook.com) Dungeons and Drago
 
 ## Helpful Files
 
-* [5E Editable Character Sheet](/static/5e_charactersheet.pdf)
-* [Princes of the Apocalype Character Backgrounds](/static/ee_backgrounds.pdf)
-* [Princes of the Apocalypse Player Companion](/static/ee_companion.pdf)
+* [5E Editable Character Sheet](/static/pdf/5e_charactersheet.pdf)
+* [Princes of the Apocalype Character Backgrounds](/static/pdf/ee_backgrounds.pdf)
+* [Princes of the Apocalypse Player Companion](/static/pdf/ee_companion.pdf)
